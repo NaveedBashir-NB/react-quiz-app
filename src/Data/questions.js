@@ -39,4 +39,10 @@ export const quizData = [
     options: ["useState", "useEffect", "useContext", "useReducer"],
     answer: "useState",
   },
+  {
+    id: 6,
+    question: "Which front-end framework is most popular in the market?",
+    options: ["React js", "Next js", "Vue", "Angular"],
+    answer: "React js",
+  },
 ];
